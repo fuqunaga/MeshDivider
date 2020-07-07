@@ -1,5 +1,5 @@
 # MeshDivider
-Simply Grid-base mesh dividing tool
+Simply Grid-based mesh dividing tool
 
 ![](Documentations~/meshdivider.png)
 
@@ -11,7 +11,6 @@ Add the following address to UnitPackageManager
 ```
 https://github.com/fuqunaga/MeshDivider.git?path=Assets/MeshDivider
 ```
-
 
 # Reference
 
