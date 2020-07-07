@@ -1,5 +1,5 @@
 # MeshDivider
-Simply Grid-base mesh dividing tool.
+Simply Grid-based mesh dividing tool
 
 ![](Documentations~/meshdivider.png)
 
