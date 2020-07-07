@@ -2,7 +2,7 @@
     "name": "ga.fuquna.meshdivider",
     "displayName": "MeshDivider",
     "version": "1.0.0",
-    "unity": "2019.3.15f1",
+    "unity": "2019.3",
     "description": "Simply Grid-base Mesh Dividing Tool",
     "keywords": ["Mesh"],
     "category": "Tool",
